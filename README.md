@@ -2,5 +2,7 @@
 
 
 usage:
-get: EphemeralKV::set('thing1', 'value1');
-set: echo EphemeralKV::get('thing1');
+
+set: EphemeralKV::set('thing1', 'value1');
+
+get: EphemeralKV::get('thing1');
