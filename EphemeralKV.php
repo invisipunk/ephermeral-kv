@@ -1,7 +1,5 @@
 <?php
 
-namespace Ns\lib;
-
 /**
  * Ephemeral KeyValue storage
  */
